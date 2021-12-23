@@ -1,6 +1,6 @@
 import React, { useState } from 'react'
 import styled from 'styled-components'
-import styledComponents from 'styled-components'
+
 import {selectCars} from "../features/car/carSlice";
 import {useSelector} from "react-redux";
 
